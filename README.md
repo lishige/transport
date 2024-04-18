@@ -584,7 +584,7 @@ public class SelectionSort
 }
 ```
 
-```
+```python
 def selection_sort(arr):
     n = len(arr)
     for i in range(n-1):
@@ -607,7 +607,7 @@ for i in range(len(array)):
 
 #### ⑴代码的呈现
 
-```Java
+```java
 public class InsertionSort
 {
     public static void main(String[] args)
@@ -642,7 +642,7 @@ public class InsertionSort
 }
 ```
 
-```Python
+```python
 def insertion_sort(arr):
     n = len(arr)
     for i in range(1,n):
