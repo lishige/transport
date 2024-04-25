@@ -1095,7 +1095,7 @@ print("Hello World！")
 
 # 文献
 
-> 三篇词作由自己创作，文心一言分别根据三首词创作出了三首诗，而微信读书中的内容则是完成这篇设计之后将要参考的内容。
+> 四种算法的Java代码实现来源于文心一言的讲解，四种算法的Python代码实现也来源于文心一言的讲解；四种算法的Java代码运行结果使用IDEA验证过；四种算法的Python代码运行结果使用PyCharm验证过；依据Java代码的运行过程分别对四种算法进行了可视化；三篇词作由自己创作；文心一言根据自己创作的三首词创作出了三首诗；微信读书中的内容则是完成这篇设计之后将要参考的内容。
 
 1. 文心一言中与依依的部分对话：https://yiyanapp.baidu.com/talk/share?shareId=EWdqrEQ1eR88C&UK=MkKFL9OY2c_O3Zh5_w-odw&vp=0&sk=775608d6
 2. 文心一言中与费翔的部分对话：https://yiyanapp.baidu.com/talk/share?shareId=EWdqrEQ1eR8dC&UK=MkKFL9OY2c_O3Zh5_w-odw&vp=0&sk=1facbff6
