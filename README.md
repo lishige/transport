@@ -211,7 +211,7 @@ Welcome to the Apache Projects Directory.
 
 此站点是 Apache Software Foundation 项目的目录。它旨在帮助您找到符合您兴趣的特定项目，并更广泛地了解 Apache 社区中当前正在进行的各种工作。
 
-目前 ASF 有 TBA 开源计划：⑴TBA委员会管理TBA项目⑵5个特别委员会⑶TBA孵化豆荚。
+目前 ASF 有 TBA 开源计划：TBA委员会管理TBA项目；5个特别委员会；TBA孵化豆荚。
 
 Infrastructure, Travel Assistance, Security Team, Legal Affairs and Brand Management.
 
@@ -219,7 +219,7 @@ Please note that the information displayed here relies on the DOAP files which P
 
 This site is a catalog of Apache Software Foundation projects. It is designed to help you find specific projects that meet your interests and to gain a broader understanding of the wide variety of work currently underway in the Apache community.
 
-There are currently TBA open source initiatives at the ASF:⑴TBA committees managing TBA projects⑵5 special committees⑶TBA incubating podlings.
+There are currently TBA open source initiatives at the ASF:TBA committees managing TBA projects；5 special committees；TBA incubating podlings.
 
 #### ⑷分类
 
