@@ -213,13 +213,13 @@ Welcome to the Apache Projects Directory.
 
 目前 ASF 有 TBA 开源计划：TBA委员会管理TBA项目；5个特别委员会；TBA孵化豆荚。
 
-Infrastructure, Travel Assistance, Security Team, Legal Affairs and Brand Management.
+Infrastructure,Travel Assistance,Security Team,Legal Affairs and Brand Management.
 
-Please note that the information displayed here relies on the DOAP files which PMCs are encouraged to provide. However DOAPs are not mandatory, and not all PMCs have provided a DOAP for all the projects they manage.
+Please note that the information displayed here relies on the DOAP files which PMCs are encouraged to provide.However DOAPs are not mandatory,and not all PMCs have provided a DOAP for all the projects they manage.
 
-This site is a catalog of Apache Software Foundation projects. It is designed to help you find specific projects that meet your interests and to gain a broader understanding of the wide variety of work currently underway in the Apache community.
+This site is a catalog of Apache Software Foundation projects.It is designed to help you find specific projects that meet your interests and to gain a broader understanding of the wide variety of work currently underway in the Apache community.
 
-There are currently TBA open source initiatives at the ASF:TBA committees managing TBA projects；5 special committees；TBA incubating podlings.
+There are currently TBA open source initiatives at the ASF:TBA committees managing TBA projects;5 special committees;TBA incubating podlings.
 
 #### ⑷分类
 
