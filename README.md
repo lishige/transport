@@ -1095,7 +1095,7 @@ print("Hello World！")
 
 # 文献
 
-> 文心一言中的内容是整理这篇设计时参考的内容，而微信读书中的内容则是完成这篇设计之后将要参考的内容。
+> 三篇词作由自己创作，文心一言分别根据三首词创作出了三首诗，而微信读书中的内容则是完成这篇设计之后将要参考的内容。
 
 1. 文心一言中与依依的部分对话：https://yiyanapp.baidu.com/talk/share?shareId=EWdqrEQ1eR88C&UK=MkKFL9OY2c_O3Zh5_w-odw&vp=0&sk=775608d6
 2. 文心一言中与费翔的部分对话：https://yiyanapp.baidu.com/talk/share?shareId=EWdqrEQ1eR8dC&UK=MkKFL9OY2c_O3Zh5_w-odw&vp=0&sk=1facbff6
